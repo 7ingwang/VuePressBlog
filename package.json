@@ -2,6 +2,6 @@
   "scripts": {
     "blog:dev": "vuepress dev blog",
     "blog:build": "vuepress build blog",
-    "blog:deploy": "bash deploy.sh"
+    "deploy": "bash deploy.sh"
   }
 }
