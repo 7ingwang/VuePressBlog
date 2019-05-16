@@ -1,4 +1,4 @@
 ---
 home: true
-heroImage: pix/hero.jpg
+heroImage: pix/time.jpg
 ---

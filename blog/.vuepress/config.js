@@ -4,6 +4,7 @@ module.exports = {
   description: '时光缩略成照片，有风吹过，明天仍是崭新的',
   head: [/* */],
   themeConfig: {
+    search: false,
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Blog', link: '/blog/pix/' },
