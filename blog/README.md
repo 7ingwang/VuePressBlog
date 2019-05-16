@@ -1,1 +1,4 @@
-# Hello VuePress
+---
+home: true
+heroImage: pix/hero.jpg
+---
